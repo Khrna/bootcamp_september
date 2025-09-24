@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Robot Framework output files
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
